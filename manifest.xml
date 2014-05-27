@@ -1,0 +1,18 @@
+<package>
+  <description brief="Ethernet Schremote driver">
+  Driver for the Ethernet-UART,Digital,Analogic,I2C Converter SR01E12 sch-remote
+  </description>
+  <author>elael@poli.ufrj.br/elael@poli.ufrj.br</author>
+  <license></license>
+  <url>http://</url>
+  <logo>http://</logo>
+  <!--
+   To add any dependencies use the depend tag
+  <depend package="dummy-dependency-0" />
+	...
+  <depend package="dummy-dependency-n-1" />
+  <depend package="dummy-dependency-n" />
+  -->
+  <depend package="iodrivers_base" />
+  <depend package="base/types" />
+</package>
